@@ -1,0 +1,30 @@
+[
+    {
+        "code": "BZ",
+        "name": "TECNICO BZ"
+    },
+    {
+        "code": "CE",
+        "name": "TECNICO CE"
+    },
+    {
+        "code": "FS",
+        "name": "TECNICO FS"
+    },
+    {
+        "code": "FT",
+        "name": "TECNICO FT"
+    },
+    {
+        "code": "FX",
+        "name": "TECNICO FX"
+    },
+    {
+        "code": "GS",
+        "name": "TECNICO GS"
+    },
+    {
+        "code": "HD",
+        "name": "TECNICO HD"
+    }
+]
