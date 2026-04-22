@@ -1,30 +1,28 @@
 [
-    {
-        "code": "BZ",
-        "name": "TECNICO BZ"
-    },
-    {
-        "code": "CE",
-        "name": "TECNICO CE"
-    },
-    {
-        "code": "FS",
-        "name": "TECNICO FS"
-    },
-    {
-        "code": "FT",
-        "name": "TECNICO FT"
-    },
-    {
-        "code": "FX",
-        "name": "TECNICO FX"
-    },
-    {
-        "code": "GS",
-        "name": "TECNICO GS"
-    },
-    {
-        "code": "HD",
-        "name": "TECNICO HD"
-    }
+    {"code": "HK", "name": "ALEXANDRE MENEZES DE SOUZA - DMAIS (VAREJO)"},
+    {"code": "HJ", "name": "ANDERSON NASCIMENTO DE SOUZA - DMAIS (VAREJO)"},
+    {"code": "AB", "name": "CELSO RICARDO SILVA DA COSTA - DMAIS (VAREJO)"},
+    {"code": "8Q", "name": "CLAUDIO OLIVEIRA DE MORAIS - DMAIS (VAREJO)"},
+    {"code": "C3", "name": "DIEGO LUIZ DE OLIVEIRA DAVID ANDRADE - DMAIS"},
+    {"code": "AL", "name": "EDIVALDO SANTOS GUSMAO - DMAIS (VAREJO)"},
+    {"code": "FU", "name": "FERNANDO AURELIO DE FARIA - DMAIS (VAREJO)"},
+    {"code": "HO", "name": "GABRIEL SOUZA OLIVEIRA - DMAIS (VAREJO)"},
+    {"code": "GZ", "name": "JEFFERSON DOS SANTOS DE SOUZA - DMAIS(VAREJO)"},
+    {"code": "5X", "name": "JOCIMAR JESUS DE SOUZA - DMAIS"},
+    {"code": "P9", "name": "JORGE LUIS DA SILVA ALVES - DMAIS"},
+    {"code": "GJ", "name": "JULIO MATHEUS LIMA DA SILVA NETO - DMAIS"},
+    {"code": "HV", "name": "LEANDRO NASCIMENTO DA SILVA - DMAIS (VAREJO)"},
+    {"code": "BM", "name": "NIELSON ROCHA SANTANA - DMAIS (VAREJO)"},
+    {"code": "BY", "name": "NILSON DE OLIVEIRA FRITZ - DMAIS (VAREJO)"},
+    {"code": "BW", "name": "RENATO AUGUSTO DA CONCEICAO - DMAIS"},
+    {"code": "EM", "name": "RICARDO DE OLIVEIRA LOUREIRO - DMAIS (VAREJO)"},
+    {"code": "FE", "name": "ROBSON LOPES DOS REIS - DMAIS (VAREJO)"},
+    {"code": "X2", "name": "ROBSON SILVA CORREIA - DMAIS (VAREJO)"},
+    {"code": "FV", "name": "THIAGO DE OLIVEIRA SABINO - DMAIS (VAREJO)"},
+    {"code": "GX", "name": "WANDERSON COSTA ALVARENGA - DMAIS (VAREJO)"},
+    {"code": "Q6", "name": "WEDSON CORREA - DMAIS"},
+    {"code": "GL", "name": "WELINGTON SAVIO ALVARENGA PEREIRA - DMAIS"},
+    {"code": "2S", "name": "YURI SMARSARO AMORIM - DMAIS"},
+    {"code": "DJ", "name": "LOGISTICA VVA"},
+    {"code": "CT", "name": "LOGISTICA ACZ"}
 ]

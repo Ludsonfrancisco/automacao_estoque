@@ -31,12 +31,12 @@ This RPA agent acts as a bridge between the Totvs ERP and the local data process
 
 ## 7. Task List & Sprints (Execution Roadmap)
 
-### Sprint 1: Foundation & Authentication (The Start)
+### Sprint 1: Foundation & Authentication (The Start) [DONE]
 - [x] **Setup Project**: Initialize venv, install dependencies (`playwright`, `python-dotenv`).
 - [x] **Config Files**: Create `.env.example` and the initial `technicians.json` in the root.
 - [x] **Login Agent**: Implement `agentes/auth_agent.py` to handle the Totvs login flow.
-- [ ] **Test 1.1**: Run login script and verify successful landing page via screenshot.
-- [ ] **Version Control**: Initialize Git repository, commit changes, and push to GitHub.
+- [x] **Test 1.1**: Run login script and verify successful landing page via screenshot.
+- [x] **Version Control**: Initialize Git repository, commit changes, and push to GitHub.
 
 ### Sprint 2: Navigation & Extraction Loop (The Middle)
 - [ ] **Navigation**: Implement logic to reach the "Estoque de Técnicos" screen.
